@@ -1,2 +1,2 @@
 # Data-Analysis-Absolute-Beginner
-Course completion ertificate for Data Analysis
+Course completion certificate for Data Analysis
